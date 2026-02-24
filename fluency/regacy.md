@@ -7,7 +7,7 @@ Source: The Simpsons S10E3 (2025/04/13)
 
 ## never sinks in
 뜻: 이해가 되다 / 이해가 안 되다  
-Example: But it never sinks in. So you know what? Do what you want.
+Example: But it never sinks in. So you know what? Do what you want.   
 Source: The Simpsons S10E3 13:35
 
 ## drastic
